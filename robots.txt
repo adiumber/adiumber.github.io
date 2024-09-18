@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://adiumber.github.io/sitemap.html.gz
+Sitemap: https://adiumber.github.io/app/sitemap.html.gz
+Sitemap: https://adiumber.github.io/assets/sitemap.html.gz
+Sitemap: https://adiumber.github.io/css/sitemap.html.gz
+Sitemap: https://adiumber.github.io/includes/sitemap.html.gz
+Sitemap: https://adiumber.github.io/item/sitemap.html.gz
+Sitemap: https://adiumber.github.io/src/sitemap.html.gz
